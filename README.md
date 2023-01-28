@@ -13,3 +13,7 @@ The purpose of this project is to learn how to plot networks. More importantly, 
 ![](https://github.com/kellyngsf/euemail_networks/blob/main/images/euemails_network1.png)
 
 References: Yin, H., Benson, A. R., Leskovec, J., and Gleich, D. F. (2017). Local higher-order graph clustering. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD ’17, page 555–564, New York, NY, USA. Association for Computing Machinery.
+
+## [Project 4: Singapore Population Pyramid](https://github.com/kellyngsf/sg_population_pyramid.git)
+This project aims to investigate the changes of Singapore's population over the years, from 1960 to 2020. We do this through a visualization of their population data in a population pyramid in R. A population pyramis is a good way to represent population data because it enables a graphical illustration that shows the distribution of the population in various age groups, which will be shown through the shape of the pyramid. It was found that from 1960 to 2020, the most notable changes have been an increase in the older population and a slight decrease in the younger population. In this project, the genders were also plotted separately, therefore, it's observed that women tend to live longer than men. 
+![](https://github.com/kellyngsf/sg_population_pyramid/blob/main/images/sg_population_pyramid_img.png)
